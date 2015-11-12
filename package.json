@@ -1,0 +1,22 @@
+{
+  "name": "hyperframe",
+  "version": "1.0.0",
+  "description": "data tables",
+  "main": "index.js",
+  "bin": {
+    "hyperframe": "cli.js"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karissa/hyperframe.git"
+  },
+  "author": "Karissa McKelvey <karissa@karissamck.com> (http://karissamck.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karissa/hyperframe/issues"
+  },
+  "homepage": "https://github.com/karissa/hyperframe#readme"
+}
